@@ -1,3 +1,6 @@
 [submodule "rhemes/hugo-minamalist-theme"]
 	path = rhemes/hugo-minamalist-theme
 	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
+[submodule "themes/hugo-minimalist-theme"]
+	path = themes/hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
